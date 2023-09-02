@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, My name is Xotic! You may know me from projects like Blacket. If you have any questions or want to chat, join our Discord server at [![discord.gg/blacket](https://discord.gg/blacket)!
+👋 Hey, My name is Xotic! You may know me from projects like Blacket. If you have any questions or want to chat, join our Discord server at [discord.gg/blacket](https://discord.gg/blacket)!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/963728078520074250) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XoticBlacket) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCgiSMBsgq954SX5JT7_Lm2g) 
